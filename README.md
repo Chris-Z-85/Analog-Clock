@@ -7,4 +7,4 @@ Analog-style clock made with JS and CSS
  * Javascript
  
 ## Preview
-![Project Image](hhttps://github.com/Chris-Z-85/Analog-Clock/blob/main/analog_clock.png)
+![Project Image](https://github.com/Chris-Z-85/Analog-Clock/blob/main/analog_clock.jpg)
